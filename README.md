@@ -16,5 +16,5 @@ Folder [xtide](./xtide) contains documents and misc files related to [XTIDE Univ
 
 ## x86 misc reverse engineering
 
-- [Reverse engineering Juko XT BIOS](Using-PC-XT-ROM-BASIC-to-host-XTIDE-BIOS)
+- [Reverse engineering Juko XT BIOS](https://github.com/charlysan/x86_stuff/wiki/Using-PC-XT-ROM-BASIC-to-host-XTIDE-BIOS#reverse-engineering-juko-xt-bios)
 
