@@ -18,3 +18,6 @@ Folder [xtide](./xtide) contains documents and misc files related to [XTIDE Univ
 
 - [Reverse engineering Juko XT BIOS](https://github.com/charlysan/x86_stuff/wiki/Using-PC-XT-ROM-BASIC-to-host-XTIDE-BIOS#reverse-engineering-juko-xt-bios)
 
+## Tools
+
+- [Juko Tool](./juko/): command line tool that can be used to communicate with `TD3300A`
