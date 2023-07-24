@@ -14,7 +14,7 @@ python lavct.py <CSV-FILE>
 
 ## Usage
 
-- Change pixel clock period: `a` and `s` keys
+- Change pixel clock period: `a` and `d` keys
 - Change back porch value: `q` and `e` keys.
 - Change colors:
    * `8` -> amber
@@ -22,9 +22,14 @@ python lavct.py <CSV-FILE>
    * `0` -> white
 
 
+<p align="center">
+  <img width="80%" src="https://github.com/charlysan/x86_stuff/wiki/lavct/prince.gif">
+</p>
+
+
 ## Examples and notes
 
-```
+`d``
 python lavct.py prince.csv
 ```
 
