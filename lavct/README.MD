@@ -30,7 +30,7 @@ python lavct.py <CSV-FILE>
 ## Examples and notes
 
 ```
-python lavct.py prince.csv
+python lavct.py captures/colorado.scv
 ```
 
 Folder [captures](./captures/) contains `.csv` example files captured using a JUKO XT PC and Hercules Graphics card.
