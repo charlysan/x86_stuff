@@ -29,7 +29,7 @@ python lavct.py <CSV-FILE>
 
 ## Examples and notes
 
-`d``
+```
 python lavct.py prince.csv
 ```
 
