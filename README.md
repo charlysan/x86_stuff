@@ -25,3 +25,5 @@ Folder [xtide](./xtide) contains documents and misc files related to [XTIDE Univ
 - [Juko Tool](./juko/): command line tool that can be used to communicate with `TD3300A`
 
 - [Logic Analyzer Video Capture Tool](./lavct/): python app used to render video screenshot captured by a logic analyzer
+
+- [CGA tool](./tools/cga.asm): command line tool that can be used to manually initialize a CGA card in different modes.
