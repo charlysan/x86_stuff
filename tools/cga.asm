@@ -116,6 +116,7 @@ setcol:
 
 
 section .data
+    ;Custom CGA card I/O (e.g. 0x3D4 -> 0x394)
 	CONTROL_REG  dw  0x0398          ;Control register port address
 	CCHOICE_REG  dw  0x0399          ;Color select register port address
 	ADDRESS_6845 dw  0x0394          ;6845 address register

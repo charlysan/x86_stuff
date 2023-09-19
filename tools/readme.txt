@@ -1,7 +1,7 @@
 cga.asm
 ------
 
-Tool that can be used to initialized a CGA card
+Tool that can be used to initialized a CGA card with custom addressing.
 
 cga.com
 ------
