@@ -15,7 +15,7 @@ Just double click on the `.img` file.
 You can also use `7z`:
 
 ```
-7z x .floppy.img
+7z x floppy.img
 ```
 
 
