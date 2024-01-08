@@ -27,3 +27,7 @@ Folder [xtide](./xtide) contains documents and misc files related to [XTIDE Univ
 - [Logic Analyzer Video Capture Tool](./lavct/): python app used to render video screenshot captured by a logic analyzer
 
 - [CGA tool](./tools/cga.asm): command line tool that can be used to manually initialize a CGA card in different modes.
+
+## Floppy disk images
+
+Misc. floppy disk images can be found [here](./floppy_raw/README.MD).
