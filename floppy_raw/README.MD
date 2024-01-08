@@ -3,7 +3,7 @@
 
 Floppy disk images (`.img`) files in this folder have been created using [DskImage](https://www.brutman.com/DskImage/), and they can be mounted like this:
 
-### Linux: 
+Linux:
 ```
 sudo mount -o loop floppy.img /media/dir/
 ```
@@ -19,6 +19,6 @@ You can also use `7z`:
 ```
 
 
-## Directory listing:
+## Directory listing
 
 [compusound.img](./compusound.img): (720 KB) COMPUMAGAZINE Ed. extra #3 (1994)
